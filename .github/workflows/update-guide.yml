@@ -1,0 +1,52 @@
+name: Update EPG Guide
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # daily at 08:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+        with:
+          path: this-repo
+
+      - name: Checkout iptv-org/epg grabber
+        uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          path: epg
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install grabber dependencies
+        working-directory: epg
+        run: npm ci
+
+      - name: Use our curated channel list
+        run: cp this-repo/channels.xml epg/channels.xml
+
+      - name: Run grabber
+        working-directory: epg
+        run: npm run grab -- --channels=channels.xml --output=guide.xml --days=3 --maxConnections=5
+
+      - name: Copy guide back into this repo
+        run: cp epg/guide.xml this-repo/guide.xml
+
+      - name: Commit and push if changed
+        working-directory: this-repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add guide.xml
+          git diff --cached --quiet || git commit -m "Update EPG guide [automated]"
+          git push

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CBS.us@KUTV" site_id="cbs--mountain/9906">CBS KUTV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Fox.us@KSTU" site_id="fox--eastern/1229">Fox KSTU</channel>
+  <channel site="mi.tv" lang="en" xmltv_id="BYUTV.us@SD" site_id="pe#byutv">BYU TV</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="AccuWeatherNOW.us@SD" site_id="accuweather-hd/7335">AccuWeather NOW</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="FoxWeather.us@SD" site_id="640a68880e884c0009979cc2">Fox Weather</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="WeatherNation.us@SD" site_id="5d2cb7ac552e3773bc48982e">WeatherNation</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="TheWeatherChannel.us@SD" site_id="9233013815">The Weather Channel</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPN.us@HD" site_id="9200006937">ESPN</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPN2.us@HD" site_id="9200012351">ESPN 2</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="ESPNU.us@HD" site_id="9233011350">ESPNU</channel>
+  <channel site="gatotv.com" lang="en" xmltv_id="ESPNDeportes.us@HD" site_id="espn_deportes">ESPN Deportes</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="NFLNetwork.us@SD" site_id="9200004330">NFL Network</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="NFLChannel.us@SD" site_id="5ced7d5df64be98e07ed47b6">NFL Channel</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us@HD" site_id="9233008440">Fox Sports 1</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us@HD" site_id="9200009884">Fox Sports 2</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CBSSportsHQ.us@SD" site_id="5e9f2c05172a0f0007db4786">CBS Sports HQ</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NBCSportsNOW.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd43">NBC Sports NOW</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="Stadium.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92">Stadium</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="FuboSportsNetwork.us@HD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37">Fubo Sports Network</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="NHRATV.us@SD" site_id="Plex/au#697140a85d851f5e69414688-60aeb5cd87f9b1002ce12323">NHRA TV</channel>
+  <channel site="watchyour.tv" lang="en" xmltv_id="TVSTurbo.us@SD" site_id="793">TVS Turbo</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="Cops.us@SD" site_id="661cf62d24e1d000087dae0d">Cops</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="CourtTV.us@SD" site_id="5dae0b4841a7d0000938ddbd">Court TV</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="CrimePlusInvestigation.us@SD" site_id="9233003673">Crime + Investigation</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="LawCrime.us@SD" site_id="law--crime-network/32823">Law &amp; Crime</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVCrimeDrama.us@SD" site_id="62e92708a7ce600007b2676a">Pluto TV Crime Drama</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVTrueCrime.us@US" site_id="62e9289f8d467f0007fbc701">Pluto TV True Crime</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="TheJudgeJudyChannel.us@SD" site_id="622f498d119b4c000719c0b7">The Judge Judy Channel</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="UniversalCrime.us@East" site_id="6549341853fc9700083901ac">Universal Crime</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="AE.us@East" site_id="9200004889">A&amp;E</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="FX.us@East" site_id="9200006932">FX</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Lifetime.us@East" site_id="9200020452">Lifetime</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="HGTV.us@East" site_id="9233004104">HGTV</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="GameShowCentral.us@SD" site_id="5e54187aae660e00093561d6">Game Show Central</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ClassicTVComedy.us@SD" site_id="5f15e32b297f96000768f928">Classic TV Comedy</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Laff.us@SD" site_id="laff--network-hd/20170">Laff</channel>
+</channels>
