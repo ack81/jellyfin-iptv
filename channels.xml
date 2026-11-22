@@ -14,7 +14,6 @@
   <channel site="tvguide.com" lang="en" xmltv_id="NFLNetwork.us@SD" site_id="9200004330">NFL Network</channel>
   <channel site="pluto.tv" lang="en" xmltv_id="NFLChannel.us@SD" site_id="5ced7d5df64be98e07ed47b6">NFL Channel</channel>
   <channel site="tvguide.com" lang="en" xmltv_id="FoxSports1.us@HD" site_id="9233008440">Fox Sports 1</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="FoxSports2.us@HD" site_id="9200009884">Fox Sports 2</channel>
   <channel site="pluto.tv" lang="en" xmltv_id="CBSSportsHQ.us@SD" site_id="5e9f2c05172a0f0007db4786">CBS Sports HQ</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="NBCSportsNOW.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd43">NBC Sports NOW</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="Stadium.us@SD" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92">Stadium</channel>
@@ -28,12 +27,9 @@
   <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVCrimeDrama.us@SD" site_id="62e92708a7ce600007b2676a">Pluto TV Crime Drama</channel>
   <channel site="pluto.tv" lang="en" xmltv_id="PlutoTVTrueCrime.us@US" site_id="62e9289f8d467f0007fbc701">Pluto TV True Crime</channel>
   <channel site="pluto.tv" lang="en" xmltv_id="TheJudgeJudyChannel.us@SD" site_id="622f498d119b4c000719c0b7">The Judge Judy Channel</channel>
-  <channel site="pluto.tv" lang="en" xmltv_id="UniversalCrime.us@East" site_id="6549341853fc9700083901ac">Universal Crime</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="AE.us@East" site_id="9200004889">A&amp;E</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="FX.us@East" site_id="9200006932">FX</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="Lifetime.us@East" site_id="9200020452">Lifetime</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="HGTV.us@East" site_id="9233004104">HGTV</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="BritBoxMysteries.us@SD" site_id="60f5d389985a0c0007357304">BritBox Mysteries</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ColdCaseFiles.us@SD" site_id="5c37d6712de254456f7ec340">Cold Case Files</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="DogtheBountyHunter.us@US" site_id="5bee1a7359ee03633e780238">Dog the Bounty Hunter</channel>
   <channel site="pluto.tv" lang="en" xmltv_id="GameShowCentral.us@SD" site_id="5e54187aae660e00093561d6">Game Show Central</channel>
   <channel site="pluto.tv" lang="en" xmltv_id="ClassicTVComedy.us@SD" site_id="5f15e32b297f96000768f928">Classic TV Comedy</channel>
-  <channel site="tvpassport.com" lang="en" xmltv_id="Laff.us@SD" site_id="laff--network-hd/20170">Laff</channel>
 </channels>
